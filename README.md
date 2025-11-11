@@ -16,7 +16,7 @@
   - حذف المقالات
 - **واجهة تفاعلية وحديثة**
   - استخدام **React Components** لإعادة استخدام العناصر
-  - تصميم مستجيب باستخدام CSS Modules و Tailwind CSS
+  - تصميم مستجيب باستخدام CSS Modules
 - **إدارة الحالة (State Management)**
   - تخزين البيانات باستخدام **Redux Toolkit**
   - سهولة التتبع والتحديث التلقائي للبيانات
@@ -32,8 +32,7 @@
 - **Frontend:** React, Next.js, TypeScript  
 - **State Management:** Redux Toolkit, React Redux  
 - **Styling:** CSS Modules, Tailwind CSS  
-- **Build Tool:** Turbopack / Vite (حسب المشروع)  
-- **API Handling:** Axios (أو أي مكتبة HTTP)  
+- **API Handling:** Axios  
 
 ---
 
@@ -44,15 +43,15 @@
 git clone https://github.com/raofa789/react-Blog-redux-app-ts.git
 2. تثبيت الحزم:
 
-cd vp2-avg-calculator-app-next
+cd react-Blog-redux-app-ts
 npm install
 
 
 3. تشغيل المشروع:
 
-npm run dev
+npm start
 
 
 4. زيارة التطبيق في المتصفح:
 
-http://localhost:3000
+http://localhost:8000
